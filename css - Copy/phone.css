@@ -31,6 +31,8 @@
 #services{
     flex-direction: column;
 
+}
+#clients{
     flex-wrap: wrap;
 }
 #client img{
